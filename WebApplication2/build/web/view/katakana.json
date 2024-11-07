@@ -1,0 +1,629 @@
+
+[
+    {
+        "kana": "ア",
+        "roumaji": "a",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-a.mp3"    
+    },
+    {
+        "kana": "イ",
+        "roumaji": "i",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-i.mp3"
+    },
+    {
+        "kana": "ウ",
+        "roumaji": "u",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-u.mp3"
+    },
+    {
+        "kana": "エ",
+        "roumaji": "e",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-e.mp3"
+    },
+    {
+        "kana": "オ",
+        "roumaji": "o",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-o.mp3"
+    },
+    {
+        "kana": "カ",
+        "roumaji": "ka",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ka.mp3"
+    },
+    {
+        "kana": "キ",
+        "roumaji": "ki",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ki.mp3"
+    },
+    {
+        "kana": "ク",
+        "roumaji": "ku",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ku.mp3"
+    },
+    {
+        "kana": "ケ",
+        "roumaji": "ke",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ke.mp3"
+    },
+    {
+        "kana": "コ",
+        "roumaji": "ko",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ko.mp3"
+    },
+    {
+        "kana": "サ",
+        "roumaji": "sa",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-sa.mp3"
+    },
+    {
+        "kana": "シ",
+        "roumaji": "shi",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-shi.mp3"
+    },
+    {
+        "kana": "ス",
+        "roumaji": "su",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-su.mp3"
+    },
+    {
+        "kana": "セ",
+        "roumaji": "se",
+        "type": "gojuuon",
+        "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-se.mp3"
+    },
+    {
+        "kana": "ソ",
+        "roumaji": "so",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-so.mp3"
+    },
+    {
+        "kana": "タ",
+        "roumaji": "ta",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ta.mp3"
+    },
+    {
+        "kana": "チ",
+        "roumaji": "chi",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-chi.mp3"
+    },
+    {
+        "kana": "ツ",
+        "roumaji": "tsu",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-tsu.mp3"
+    },
+    {
+        "kana": "テ",
+        "roumaji": "te",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-te.mp3"
+    },
+    {
+        "kana": "ト",
+        "roumaji": "to",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-to.mp3"
+    },
+    {
+        "kana": "ナ",
+        "roumaji": "na",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-na.mp3"
+    },
+    {
+        "kana": "ニ",
+        "roumaji": "ni",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ni.mp3"
+    },
+    {
+        "kana": "ヌ",
+        "roumaji": "nu",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-nu.mp3"
+    },
+    {
+        "kana": "ネ",
+        "roumaji": "ne",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ne.mp3"
+    },
+    {
+        "kana": "ノ",
+        "roumaji": "no",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-no.mp3"
+    },
+    {
+        "kana": "ハ",
+        "roumaji": "ha",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ha.mp3"
+    },
+    {
+        "kana": "ヒ",
+        "roumaji": "hi",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-hi.mp3"
+    },
+    {
+        "kana": "フ",
+        "roumaji": "hu",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-hu.mp3"
+    },
+    {
+        "kana": "ヘ",
+        "roumaji": "he",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-he.mp3"
+    },
+    {
+        "kana": "ホ",
+        "roumaji": "ho",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ho.mp3"
+    },
+    {
+        "kana": "マ",
+        "roumaji": "ma",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ma.mp3"
+    },
+    {
+        "kana": "ミ",
+        "roumaji": "mi",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-mi.mp3"
+    },
+    {
+        "kana": "ム",
+        "roumaji": "mu",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-mu.mp3"
+    },
+    {
+        "kana": "メ",
+        "roumaji": "me",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-me.mp3"
+    },
+    {
+        "kana": "モ",
+        "roumaji": "mo",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-mo.mp3"
+    },
+    {
+        "kana": "ヤ",
+        "roumaji": "ya",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ya.mp3"
+    },
+    {
+        "kana": "ユ",
+        "roumaji": "yu",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-yu.mp3"
+    },
+    {
+        "kana": "ヨ",
+        "roumaji": "yo",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-yo.mp3"
+    },
+    {
+        "kana": "ラ",
+        "roumaji": "ra",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ra.mp3"
+    },
+    {
+        "kana": "リ",
+        "roumaji": "ri",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ri.mp3"
+    },
+    {
+        "kana": "ル",
+        "roumaji": "ru",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ru.mp3"
+    },
+    {
+        "kana": "レ",
+        "roumaji": "re",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-re.mp3"
+    },
+    {
+        "kana": "ロ",
+        "roumaji": "ro",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ro.mp3"
+    },
+    {
+        "kana": "ワ",
+        "roumaji": "wa",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-wa.mp3"
+    },
+    {
+        "kana": "ヲ",
+        "roumaji": "wo",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-wo.mp3"
+    },
+    {
+        "kana": "ン",
+        "roumaji": "n",
+        "type": "gojuuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-n.mp3"
+    },
+    {
+        "kana": "ガ",
+        "roumaji": "ga",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ga.mp3"
+    },
+    {
+        "kana": "ギ",
+        "roumaji": "gi",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-gi.mp3"
+    },
+    {
+        "kana": "グ",
+        "roumaji": "gu",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-gu.mp3"
+    },
+    {
+        "kana": "ゲ",
+        "roumaji": "ge",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ge.mp3"
+    },
+    {
+        "kana": "ゴ",
+        "roumaji": "go",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-go.mp3"
+    },
+    {
+        "kana": "ザ",
+        "roumaji": "za",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-za.mp3"
+    },
+    {
+        "kana": "ジ",
+        "roumaji": "ji",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ji.mp3"
+    },
+    {
+        "kana": "ズ",
+        "roumaji": "zu",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-zu.mp3"
+    },
+    {
+        "kana": "ゼ",
+        "roumaji": "ze",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ze.mp3"
+    },
+    {
+        "kana": "ゾ",
+        "roumaji": "zo",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-zo.mp3"
+    },
+    {
+        "kana": "ダ",
+        "roumaji": "da",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-da.mp3"
+    },
+    {
+        "kana": "ヂ",
+        "roumaji": "ji",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ji.mp3"
+    },
+    {
+        "kana": "ヅ",
+        "roumaji": "zu",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-zu.mp3"
+    },
+    {
+        "kana": "デ",
+        "roumaji": "de",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-de.mp3"
+    },
+    {
+        "kana": "ド",
+        "roumaji": "do",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-do.mp3"
+    },
+    {
+        "kana": "バ",
+        "roumaji": "ba",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ba.mp3"
+    },
+    {
+        "kana": "ビ",
+        "roumaji": "bi",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-bi.mp3"
+    },
+    {
+        "kana": "ブ",
+        "roumaji": "bu",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-bu.mp3"
+    },
+    {
+        "kana": "ベ",
+        "roumaji": "be",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-be.mp3"
+    },
+    {
+        "kana": "ボ",
+        "roumaji": "bo",
+        "type": "dakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-bo.mp3"
+    },
+    {
+        "kana": "パ",
+        "roumaji": "pa",
+        "type": "handakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pa.mp3"
+    },
+    {
+        "kana": "ピ",
+        "roumaji": "pi",
+        "type": "handakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pi.mp3"
+    },
+    {
+        "kana": "プ",
+        "roumaji": "pu",
+        "type": "handakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pu.mp3"
+    },
+    {
+        "kana": "ペ",
+        "roumaji": "pe",
+        "type": "handakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pe.mp3"
+    },
+    {
+        "kana": "ポ",
+        "roumaji": "po",
+        "type": "handakuon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-po.mp3"
+    },
+
+    {
+        "kana": "キャ",
+        "roumaji": "kya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-kya.mp3"
+    },
+    {
+        "kana": "キュ",
+        "roumaji": "kyu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-kyu.mp3"
+    },
+    {
+        "kana": "キョ",
+        "roumaji": "kyo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-kyo.mp3"
+    },
+    {
+        "kana": "シャ",
+        "roumaji": "sha",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-sha.mp3"
+    },
+    {
+        "kana": "シュ",
+        "roumaji": "shu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-shu.mp3"
+    },
+    {
+        "kana": "ショ",
+        "roumaji": "sho",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-sho.mp3"
+    },
+    {
+        "kana": "チャ",
+        "roumaji": "cha",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-cha.mp3"
+    },
+    {
+        "kana": "チュ",
+        "roumaji": "chu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-chu.mp3"
+    },
+    {
+        "kana": "チョ",
+        "roumaji": "cho",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-cho.mp3"
+    },
+    {
+        "kana": "ニャ",
+        "roumaji": "nya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-nya.mp3"
+    },
+    {
+        "kana": "ニュ",
+        "roumaji": "nyu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-nyu.mp3"
+    },
+    {
+        "kana": "ニョ",
+        "roumaji": "nyo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-nyo.mp3"
+    },
+    {
+        "kana": "ヒャ",
+        "roumaji": "hya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-hya.mp3"
+    },
+    {
+        "kana": "ヒュ",
+        "roumaji": "hyu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-hyu.mp3"
+    },
+    {
+        "kana": "ヒョ",
+        "roumaji": "hyo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-hyo.mp3"
+    },
+    {
+        "kana": "ミャ",
+        "roumaji": "mya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-mya.mp3"
+    },
+    {
+        "kana": "ミュ",
+        "roumaji": "myu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-myu.mp3"
+    },
+    {
+        "kana": "ミョ",
+        "roumaji": "myo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-myo.mp3"
+    },
+    {
+        "kana": "リャ",
+        "roumaji": "rya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-rya.mp3"
+    },
+    {
+        "kana": "リュ",
+        "roumaji": "ryu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ryu.mp3"
+    },
+    {
+        "kana": "リョ",
+        "roumaji": "ryo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ryo.mp3"
+    },
+    {
+        "kana": "ギャ",
+        "roumaji": "gya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-gya.mp3"
+    },
+    {
+        "kana": "ギュ",
+        "roumaji": "gyu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-gyu.mp3"
+    },
+    {
+        "kana": "ギョ",
+        "roumaji": "gyo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-gyo.mp3"
+    },
+    {
+        "kana": "ジャ",
+        "roumaji": "ja",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ja.mp3"
+    },
+    {
+        "kana": "ジュ",
+        "roumaji": "ju",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-ju.mp3"
+    },
+    {
+        "kana": "ジョ",
+        "roumaji": "jo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-jo.mp3"
+    },
+    {
+        "kana": "ビャ",
+        "roumaji": "bya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-bya.mp3"
+    },
+    {
+        "kana": "ビュ",
+        "roumaji": "byu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-byu.mp3"
+    },
+    {
+        "kana": "ビョ",
+        "roumaji": "byo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-byo.mp3"
+    },
+    {
+        "kana": "ピャ",
+        "roumaji": "pya",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pya.mp3"
+    },
+    {
+        "kana": "ピュ",
+        "roumaji": "pyu",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pyu.mp3"
+    },
+    {
+        "kana": "ピョ",
+        "roumaji": "pyo",
+        "type": "youon",
+         "mp3": "http://localhost:9999/SWP391_Group6/view/user/mp3/kanasound-pyo.mp3"
+    }
+]
+

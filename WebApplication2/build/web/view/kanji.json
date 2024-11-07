@@ -1,0 +1,516 @@
+[{
+        "kanji": "日",
+        "meaning": "Sun, Day",
+        "onyomi": "にち, じつ",
+        "kunyomi": "ひ, -び, -か",
+        "example_words": [
+            {
+                "word": "日本",
+                "meaning": "Japan"
+            },
+            {
+                "word": "毎日",
+                "meaning": "Every day"
+            }
+        ]
+    },
+    {
+        "kanji": "月",
+        "meaning": "Moon, Month",
+        "onyomi": "げつ, がつ",
+        "kunyomi": "つき",
+        "example_words": [
+            {
+                "word": "月曜日",
+                "meaning": "Monday"
+            },
+            {
+                "word": "月見",
+                "meaning": "Moon viewing"
+            }
+        ]
+    },
+
+    {
+        "kanji": "一",
+        "meaning": "One",
+        "onyomi": "いち",
+        "kunyomi": "ひと-",
+        "example_words": [
+            {
+                "word": "一つ",
+                "meaning": "One thing"
+            },
+            {
+                "word": "一日",
+                "meaning": "One day"
+            }
+        ]
+    },
+    {
+        "kanji": "会",
+        "meaning": "Meeting, Association",
+        "onyomi": "かい",
+        "kunyomi": "あ-う",
+        "example_words": [
+            {
+                "word": "会う",
+                "meaning": "To meet"
+            },
+            {
+                "word": "会社",
+                "meaning": "Company"
+            }
+        ]
+    },
+    {
+        "kanji": "外",
+        "meaning": "Outside",
+        "onyomi": "がい",
+        "kunyomi": "そと",
+        "example_words": [
+            {
+                "word": "外国",
+                "meaning": "Foreign country"
+            },
+            {
+                "word": "外人",
+                "meaning": "Foreigner"
+            }
+        ]
+    },
+    {
+        "kanji": "学",
+        "meaning": "Study, Learn",
+        "onyomi": "がく",
+        "kunyomi": "まな-ぶ",
+        "example_words": [
+            {
+                "word": "学校",
+                "meaning": "School"
+            },
+            {
+                "word": "学生",
+                "meaning": "Student"
+            }
+        ]
+    },
+    {
+        "kanji": "手",
+        "meaning": "Hand",
+        "onyomi": "しゅ",
+        "kunyomi": "て",
+        "example_words": [
+            {
+                "word": "手紙",
+                "meaning": "Letter"
+            },
+            {
+                "word": "手袋",
+                "meaning": "Gloves"
+            }
+        ]
+    },
+    {
+        "kanji": "日",
+        "meaning": "Day, Sun",
+        "onyomi": "にち, じつ",
+        "kunyomi": "ひ, -び, -か",
+        "example_words": [
+            {
+                "word": "日本",
+                "meaning": "Japan"
+            },
+            {
+                "word": "毎日",
+                "meaning": "Every day"
+            }
+        ]
+    },
+    {
+        "kanji": "年",
+        "meaning": "Year",
+        "onyomi": "ねん",
+        "kunyomi": "とし",
+        "example_words": [
+            {
+                "word": "今年",
+                "meaning": "This year"
+            },
+            {
+                "word": "来年",
+                "meaning": "Next year"
+            }
+        ]
+    },
+    {
+        "kanji": "本",
+        "meaning": "Book",
+        "onyomi": "ほん",
+        "kunyomi": "",
+        "example_words": [
+            {
+                "word": "本",
+                "meaning": "Book"
+            },
+            {
+                "word": "本屋",
+                "meaning": "Bookstore"
+            }
+        ]
+    },
+    {
+        "kanji": "人",
+        "meaning": "Person",
+        "onyomi": "じん, にん",
+        "kunyomi": "ひと, -り",
+        "example_words": [
+            {
+                "word": "人",
+                "meaning": "Person"
+            },
+            {
+                "word": "日本人",
+                "meaning": "Japanese person"
+            }
+        ]
+    },
+    {
+        "kanji": "中",
+        "meaning": "Middle, Inside",
+        "onyomi": "ちゅう",
+        "kunyomi": "なか",
+        "example_words": [
+            { "word": "中国", "meaning": "China" },
+            { "word": "中学校", "meaning": "Junior high school" }
+        ]
+    },
+    {
+        "kanji": "生",
+        "meaning": "Life, Raw",
+        "onyomi": "せい, しょう",
+        "kunyomi": "い-きる, う-まれる, なま",
+        "example_words": [
+            { "word": "生まれる", "meaning": "To be born" },
+            { "word": "生活", "meaning": "Life, living" }
+        ]
+    },
+    {
+        "kanji": "先",
+        "meaning": "Before, Future",
+        "onyomi": "せん",
+        "kunyomi": "さき",
+        "example_words": [
+            { "word": "先週", "meaning": "Last week" },
+            { "word": "先月", "meaning": "Last month" }
+        ]
+    },
+    {
+        "kanji": "言",
+        "meaning": "Word, Say",
+        "onyomi": "げん",
+        "kunyomi": "い-う",
+        "example_words": [
+            { "word": "言語", "meaning": "Language" },
+            { "word": "言葉", "meaning": "Word, language" }
+        ]
+    },
+    {
+        "kanji": "出",
+        "meaning": "Exit, Leave",
+        "onyomi": "しゅつ",
+        "kunyomi": "で-る, だ-す",
+        "example_words": [
+            { "word": "出る", "meaning": "To leave" },
+            { "word": "出口", "meaning": "Exit" }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    },
+    {
+        "kanji": "",
+        "meaning": "",
+        "onyomi": ", ",
+        "kunyomi": ", ",
+        "example_words": [
+            {
+                "word": "",
+                "meaning": ""
+            },
+            {
+                "word": "",
+                "meaning": ""
+            }
+        ]
+    }    
+]

@@ -1,0 +1,120 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jul 17, 2024, 11:34:09 PM
+    Author     : ngoki
+*/
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+*:not(i) {
+    font-family: "Poppins", sans-serif;
+}
+
+
+body {
+    background-color: #e5e5e5;
+}
+
+.container {
+    background-color: #ffffff;
+    width: 90vmin;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 80px 50px;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2);
+}
+
+.search-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-box input {
+    padding: 5px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #0071BA;
+    font-size: 16px;
+}
+
+.back i {
+    font-size: 40px;
+}
+.search-box button {
+    padding: 15px 0;
+    width: 25%;
+    background-color: #0071BA;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.search-box button:hover {
+    background-color: #0099ff;
+    color: #111;
+}
+.result {
+    position: relative;
+}
+
+.result h3 {
+    font-size: 30px;
+    color: #1f194c;
+}
+
+.result .word {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.result button {
+    background-color: transparent;
+    color: #0071BA;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
+
+.result .details {
+    display: flex;
+    gap: 10px;
+    color: #b3b6d4;
+    margin: 5px 0 20px 0;
+    font-size: 14px;
+    align-items: center;
+}
+
+.word-meaning {
+    color: #575a7b;
+}
+
+.word-example {
+    color: #575a7b;
+    font-style: italic;
+    border-left: 5px solid #ae9cff;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.error {
+    margin-top: 80px;
+    text-align: center;
+}
+
+

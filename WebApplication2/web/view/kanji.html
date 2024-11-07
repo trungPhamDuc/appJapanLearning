@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kanji Table</title>
+        <style>
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 20px;
+            }
+            th, td {
+                border: 1px solid #ccc;
+                padding: 8px;
+                text-align: center;
+            }
+             ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            li {
+                float: left;
+                border-right:1px solid #bbb;
+            }
+
+            li:last-child {
+                border-right: none;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+
+
+        </style>
+    </head>
+    <body>
+         <ul>
+             <li><a href="../user/home">Home</a></li>
+            <li><a href="hiragana.html">Hiragana</a></li>
+            <li><a href="katakana.html">Katana</a></li>
+            <li><a href="kanji.html">Kanji</a></li>
+        </ul>
+        <h2>Kanji Table</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Kanji</th>
+                    <th>Meaning</th>
+                    <th>Onyomi</th>
+                    <th>Kunyomi</th>
+                    <th>Example Words</th>
+                </tr>
+            </thead>
+            <tbody id="kanjiTableBody">
+                
+            </tbody>
+        </table>
+
+        <script>
+            // Đọc và hiển thị dữ liệu từ JSON
+            fetch('kanji.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        const tableBody = document.getElementById('kanjiTableBody');
+
+                        data.forEach(kanji => {
+                            const row = document.createElement('tr');
+
+                            row.innerHTML = `
+                            <td>${kanji.kanji}</td>
+                            <td>${kanji.meaning}</td>
+                            <td>${kanji.onyomi}</td>
+                            <td>${kanji.kunyomi}</td>
+                            <td>
+                                ${kanji.example_words.map(word => `
+                                    <div><strong>${word.word}</strong>: ${word.meaning}</div>
+                                `).join('')}
+                            </td>
+                        `;
+
+                            tableBody.appendChild(row);
+                        });
+                    })
+                    .catch(error => console.error('Error fetching JSON: ', error));
+        </script>
+    </body>
+</html>

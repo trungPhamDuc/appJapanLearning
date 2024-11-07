@@ -1,0 +1,201 @@
+
+
+* { 
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+.sidebar {
+    width: 290px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    padding: 1rem 1.5rem;
+    background: rgb(120, 169, 233);
+}
+
+.sidebar-brand {
+    height: 70px;
+}
+
+.brand-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand-icons span {
+    font-size: 1.5rem;
+    margin-left: .5rem;
+}
+
+.sidebar-user {
+    margin: 1rem 0rem;
+    text-align: center;
+}
+
+.sidebar-user img {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 2px solid #efefef;
+}
+
+
+.sidebar-user h3 {
+    font-size: 1rem;
+}
+
+.sidebar-user span {
+    font-size: .8rem;
+}
+
+.sidebar-menu {
+    margin-top: 2rem;
+    color: wheat;
+}
+
+
+
+.menu-head {
+    text-transform: uppercase;
+    color: #f1f1f4;
+    font-size: .8rem;
+    font-weight: 500;
+    margin-bottom: .8rem;
+}
+
+.sidebar-menu ul {
+    margin-bottom: 1.5rem;
+}
+
+.sidebar-menu li {
+    margin-bottom: .99rem;
+}
+
+.sidebar-menu li a {
+    color: #efefef;
+    font-size: .9rem;
+}
+
+
+.sidebar-menu li a span {
+    font-size: 1.5rem;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+header {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 1rem 1.5rem;
+}
+
+.menu-toggle label {
+    height: 60px;
+    width: 60px;
+    display: grid;
+    place-items: center;
+    font-size: 1.5rem;
+    border-radius: 50%;
+}
+
+.header-icons span {
+    display: inline-block;
+    margin-left: .7rem;
+    font-size: 1.4rem;
+}
+
+.menu-toggle label:hover {
+    background: #f8f8f8;
+}
+
+.main-content {
+    margin-left: 290px;
+}
+
+main {
+    padding: 1.5rem;
+    
+    min-height: calc(100vh - 70px);
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-actions button {
+    outline: none;
+    color: #fff;
+    background: #0071BA ;
+    border: none;
+    padding: .6rem 1rem;
+    margin-left: 1rem;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.header-actions button span {
+    font-size: 1.2rem;
+    margin-right: .6rem;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 3rem;
+    margin-top: 2rem;
+}
+
+.card-single {
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.card-flex {
+    display: grid;
+    grid-template-columns: 70% auto;
+}
+
+.card-head span {
+    display: block;
+    text-transform: uppercase;
+    color: #555;
+    font-size: .9rem;
+}
+
+.card-head small {
+    font-weight: 600;
+    color: #555;
+}
+
+.card-info h2 {
+    font-size: 2.2rem;
+    color: #333;
+}
+
+.card-chart span {
+    font-size: 5rem;
+}
+
+.card-chart.success span {
+    color: seagreen;
+}
+
+.card-chart.danger span {
+    color: tomato;
+}
+
+.card-chart.yellow span {
+    color: orangered;
+}
+
